@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/6060efa8-4411-4a96-88c6-bc548646424a" /><p align="center">
+<img width="8000" height="3125" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/6060efa8-4411-4a96-88c6-bc548646424a" /><p align="center">
 <h1 align="center">ProToxinKnight</h1>
 <h3 align="center">TOXIC SKILLS ☠ KNIGHTMARE GAMEPLAY</h3>
 
