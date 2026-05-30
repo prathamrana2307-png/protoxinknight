@@ -1,8 +1,4 @@
-<img width="2560" height="1440" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/79360e9f-5c5c-45dc-a615-5559e39ae009" /><img width="2560" height="1440" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/820c16c2-f75b-461b-9d91-bff1a72ea4cf" />
 <img width="2560" height="1440" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/6060efa8-4411-4a96-88c6-bc548646424a" /><p align="center">
-  <img src=" <img width="2560" height="1440" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/554c7f63-1052-4d76-9ea7-877232dc5f70" />" alt="ProToxinKnight banner" width="100%" />
-</p>
-
 <h1 align="center">ProToxinKnight</h1>
 <h3 align="center">TOXIC SKILLS ☠ KNIGHTMARE GAMEPLAY</h3>
 
