@@ -18,14 +18,14 @@
 
 <p align="center">
 ## Stats
-
+<p align="center">
 | Videos | Subscribers | Toxicity Level | Kills Today |
 | ---: | ---: | ---: | ---: |
 | 51 | 575+ | 100% | N/A |
 
 <p align="center">
 ## Skill Matrix
-
+<p align="center">
   <code>Game Editing</code>
   <code>After Effects</code>
   <code>Premiere Pro</code>
@@ -45,7 +45,7 @@
 
 <p align="center">
 ## Find Me
-
+<p align="center">
 | Platform | Link |
 | --- | --- |
 | YouTube | [@ProToxinKnight](https://www.youtube.com/@LifeTimeGamer4U) |
