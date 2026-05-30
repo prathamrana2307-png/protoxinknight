@@ -1,13 +1,10 @@
-<img width="8000" height="3125" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/6060efa8-4411-4a96-88c6-bc548646424a" /><p align="center">
+<img width="2560" height="1440" alt="ProToxinKnight_Banner_1" src="https://github.com/user-attachments/assets/f1d52bf5-57a4-4f16-9a9e-3c59b29ce848" />
 <h1 align="center">ProToxinKnight</h1>
 <h3 align="center">TOXIC SKILLS ☠ KNIGHTMARE GAMEPLAY</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@LifeTimeGamer4U">
     <img src="https://img.shields.io/badge/YouTube-@ProToxinKnight-22CC00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=030608" alt="YouTube" />
-  </a>
-  <a href="https://twitch.tv/ProToxinKnight">
-    <img src="https://img.shields.io/badge/Twitch-ProToxinKnight-7B2FBE?style=for-the-badge&logo=twitch&logoColor=white&labelColor=030608" alt="Twitch" />
   </a>
   <a href="https://www.instagram.com/protoxinknight/">
     <img src="https://img.shields.io/badge/Instagram-protoxinknight-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030608" alt="Instagram" />
@@ -19,21 +16,16 @@
   Gaming. Creating. Dominating.
 </p>
 
-## Identity Log
-
-Where **toxic skills** meet **knightmare gameplay**. I'm ProToxinKnight, content creator, gaming beast and digital warlord forged in the fires of pure competitive energy.
-
-Every montage is a war cry. Every clip is engineered to be unforgettable. YouTube. Twitch. Instagram. The battlefield is wherever I show up, and I never lose.
-
+<p align="center">
 ## Stats
 
 | Videos | Subscribers | Toxicity Level | Kills Today |
 | ---: | ---: | ---: | ---: |
-| 666 | 99K+ | 100 | 9999 |
-
-## Skill Matrix
+| 51 | 575+ | 100% | N/A |
 
 <p align="center">
+## Skill Matrix
+
   <code>Game Editing</code>
   <code>After Effects</code>
   <code>Premiere Pro</code>
@@ -51,12 +43,12 @@ Every montage is a war cry. Every clip is engineered to be unforgettable. YouTub
   <code>Web Design</code>
 </p>
 
+<p align="center">
 ## Find Me
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@ProToxinKnight](https://youtube.com/@ProToxinKnight) |
-| Twitch | [ProToxinKnight](https://twitch.tv/ProToxinKnight) |
+| YouTube | [@ProToxinKnight](https://www.youtube.com/@LifeTimeGamer4U) |
 | Instagram | [@protoxinknight](https://www.instagram.com/protoxinknight/) |
 
 ---
